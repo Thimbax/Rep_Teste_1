@@ -1,0 +1,39 @@
+#corpo {
+    background-image: url(../img/back.jpg);
+    background-size: contain;
+
+}
+
+p {
+    text-align: center;
+
+}
+
+h1 {
+    text-align: center;
+    border: solid 2px rgb(69, 69, 69);
+    padding: 2px;
+}
+
+* {
+    color: rgb(222, 221, 220);
+}
+
+a {
+    position: relative;
+    border: solid white 2px;
+    padding: 0.5%;
+    background-color: black;
+    border-radius: 20px;
+    text-decoration: none;
+
+}
+
+a:hover {
+    border: solid black 2px;
+    padding: 0.5%;
+    background-color: white;
+    border-radius: 20px;
+    text-decoration: none;
+    color: black;
+}
